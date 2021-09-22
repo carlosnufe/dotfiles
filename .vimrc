@@ -13,8 +13,8 @@ set number
 "Encoding
 set encoding=utf-8
 
-" Speed up scrolling in Vim
+"Speed up scrolling in Vim
 set ttyfast
 
-" Status bar
+"Status bar
 set laststatus=2
